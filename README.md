@@ -1,7 +1,5 @@
-# EjemploFCM
+# Firebase Cloud Messaging sample
 
-Proyecto del video de Firebase Cloud Messaging
+Step-by-step tutorial and video:
 
-## Step-by-step tutorial and video
-
-[alvarez.tech/labs/android-fcm](https://alvarez.tech/labs/android-fcm)
+[alvarez.tech/videos/firebase/cloud-messaging-android/](https://alvarez.tech/videos/firebase/cloud-messaging-android/)
