@@ -2,4 +2,4 @@
 
 Step-by-step tutorial and video:
 
-[alvarez.tech/videos/firebase/cloud-messaging-android/](https://alvarez.tech/videos/firebase/cloud-messaging-android/)
+[alvarez.tech/firebase-cloud-messaging-android](https://alvarez.tech/firebase-cloud-messaging-android)
